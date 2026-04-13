@@ -1,0 +1,6 @@
+Found: pen | Color: blue | Location: 8601 | Mobile: 99999999999 | Reported by: madhan | CLAIMED | CLAIMED
+Lost: charger | Color: blacj | Location: 8301 | Mobile: 9347042136 | Reported by: chida
+Lost: water bottle | Color: blue | Location: 8301 | Mobile: 99999999999 | Reported by: vinay
+Lost: mobile charger | Color: black | Location: 8301 a | Mobile: 9347894656 | Reported by: chida | CLAIMED | CLAIMED
+Lost: bottle | Color: blue | Location: mh 2
+Found: pen | Color: black pen | Location: mh 3 | CLAIMED
